@@ -1,0 +1,193 @@
+{
+	"name": "alex",
+	"color": "rgb(177, 139, 83)",
+	"opacity": "1",
+	"url": "x",
+	"children": [
+		{
+			"name": "architecture",
+			"color": "rgb(251, 175, 63)",
+			"opacity": "0.5",
+			"url": "x",
+			"children": [
+				{
+					"name": "Rhino",
+					"fontsize": 10,
+					"boop": 3000,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "AutoCAD",
+					"fontsize": 10,
+					"boop": 1600,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "VRay",
+					"fontsize": 10,
+					"boop": 1000,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Grasshopper",
+					"fontsize": 10,
+					"boop": 800,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "GIS",
+					"fontsize": 10,
+					"boop": 200,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				}
+			]
+		},
+		{
+			"name": "graphic",
+			"color": "rgb(251, 175, 63)",
+			"opacity": "0.5",
+			"url": "x",
+			"children": [
+				{
+					"name": "InDesign",
+					"fontsize": 10,
+					"boop": 3000,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Photoshop",
+					"fontsize": 10,
+					"boop": 1500,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Illustrator",
+					"fontsize": 10,
+					"boop": 2000,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Flash",
+					"fontsize": 10,
+					"boop": 200,
+					"url": "x",
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5"
+				}
+			]
+		},
+		{
+			"name": "writing",
+			"fontsize": 10,
+			"boop": 1000,
+			"color": "rgb(236, 0, 139)",
+			"opacity": "0.5",
+			"url": "x"
+		},
+		{
+			"name": "coding",
+			"fontsize": 10,
+			"color": "rgb(39, 169, 225)",
+			"opacity": "0.5",
+			"url": "x",
+			"children": [
+				{
+					"name": "Javascript",
+					"fontsize": 10,
+					"boop": 500,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Ruby",
+					"fontsize": 10,
+					"boop": 300,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "CSS",
+					"fontsize": 10,
+					"boop": 400,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "HTML",
+					"fontsize": 10,
+					"boop": 400,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Processing",
+					"fontsize": 10,
+					"boop": 300,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Arduino",
+					"fontsize": 10,
+					"boop": 200,
+					"url": "x",
+					"color": "rgb(39, 169, 225)",
+					"opacity": "0.5"
+				}
+			]
+		},
+		{
+			"name": "video",
+			"color": "rgb(140, 198, 62)",
+			"opacity": "0.5",
+			"url": "x",
+			"children": [
+				{
+					"name": "FinalCut",
+					"fontsize": 10,
+					"boop": 1000,
+					"url": "x",
+					"color": "rgb(140, 198, 62)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "Premier",
+					"fontsize": 10,
+					"boop": 1500,
+					"url": "x",
+					"color": "rgb(140, 198, 62)",
+					"opacity": "0.5"
+				},
+				{
+					"name": "AfterEffects",
+					"fontsize": 10,
+					"boop": 500,
+					"url": "x",
+					"color": "rgb(140, 198, 62)",
+					"opacity": "0.5"
+				}				
+			]
+		}
+	]
+}

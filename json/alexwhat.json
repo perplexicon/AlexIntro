@@ -1,0 +1,57 @@
+{
+	"name": "alex",
+	"color": "rgb(177, 139, 83)",
+	"opacity": "1",
+	"url": "x",
+	"children": [
+		{
+			"name": "design",
+			"color": "rgb(251, 175, 63)",
+			"opacity": "0.5",
+			"url": "x",
+			"children": [
+				{
+					"name": "architecture",
+					"fontsize": 16,
+					"boop": 2500,
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5",
+					"url": "http://www.alexgarkavenko.com/archives/category/architecture/"
+				},
+				{
+					"name": "graphic",
+					"fontsize": 16,
+					"boop": 1276,
+					"color": "rgb(251, 175, 63)",
+					"opacity": "0.5",
+					"url": "http://www.alexgarkavenko.com/archives/category/graphic/"
+				}
+			]
+		},
+
+		{
+			"name": "writing",
+			"fontsize": 16,
+			"boop": 3938,
+			"color": "rgb(236, 0, 139)",
+			"opacity": "0.5",
+			"url": "http://www.alexgarkavenko.com/archives/category/publications/"
+		},
+		{
+			"name": "coding",
+			"fontsize": 16,
+			"boop": 3938,
+			"color": "rgb(39, 169, 225)",
+			"opacity": "0.5",
+			"url": "http://www.alexgarkavenko.com/archives/category/coding/"
+		},
+		{
+			"name": "video",
+			"fontsize": 16,
+			"boop": 1823,
+			"color": "rgb(140, 198, 62)",
+			"opacity": "0.5",
+			"url": "http://www.alexgarkavenko.com/archives/category/video/"
+		}
+	]
+}
